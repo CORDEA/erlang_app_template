@@ -15,3 +15,9 @@ deps
 .rebar3
 _build/
 _checkouts/
+
+.erlang.mk/
+_rel/
+ebin/
+erlang_app_template.d
+.idea/
